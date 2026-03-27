@@ -1,6 +1,8 @@
 # Spine-x-ray-Classification-model
 Setup
 load Spine_Xray_pre_input.ipynb in google collab or jupyter notebook
+download dataset from kaggle - https://www.kaggle.com/datasets/yasserhessein/the-vertebrae-xray-images
+and save it in the form below
 save 224..... &  224_test.......  dataset after extracting zip in your drive
 save 123.jpg or pic of your choice in drive and update the path.
 
